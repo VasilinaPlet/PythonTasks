@@ -1,0 +1,1 @@
+print("22:22" "\n" , "Monday" "\n" , "February, 1" "\n", "You have 1 new message" , sep = "")

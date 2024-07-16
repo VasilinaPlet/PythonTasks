@@ -1,0 +1,6 @@
+s = input()
+print(s, " " , s)
+print(" ", s, " ", s," ", sep="")
+print(" ", s, " ")
+print(" ", s, " ", s," ", sep="")
+print(s, " " , s)
